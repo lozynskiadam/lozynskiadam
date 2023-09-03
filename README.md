@@ -11,8 +11,8 @@
 ... but also familiar with
 
 [<img src="icons/yii.svg" alt="Yii" height="32" />](## "Yii") &nbsp;
-[<img src="icons/react.svg" alt="React" height="32" />](## "React") &nbsp;
 [<img src="icons/node.svg" alt="Node.js" height="32" />](## "Node.js") &nbsp;
+[<img src="icons/angular.svg" alt="Angular" height="32" />](## "Angular") &nbsp;
 [<img src="icons/electron.svg" alt="Electron.js" height="32" />](## "Electron.js") &nbsp;
 [<img src="icons/graphql.svg" alt="GraphQL" height="32" />](## "GraphQL") &nbsp;
 [<img src="icons/jenkins.svg" alt="Jenkins" height="32" />](## "Jenkins") &nbsp;
