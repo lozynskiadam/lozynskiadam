@@ -15,7 +15,6 @@
 [<img src="icons/jenkins.svg" alt="Jenkins" height="32" />](## "Jenkins") &nbsp;
 [<img src="icons/ratchet.png" alt="Ratchet" height="32" />](## "Ratchet") &nbsp;
 [<img src="icons/postgresql.svg" alt="PostgreSQL" height="32" />](## "PostreSQL") &nbsp;
-[<img src="icons/redis.svg" alt="Redis" height="32" />](## "Redis") &nbsp;
 [<img src="icons/jquery.svg" alt="jQuery" height="32" />](## "jQuery") &nbsp;
 [<img src="icons/bootstrap.svg" alt="Bootstrap" height="32" />](## "Bootstrap") &nbsp;
 [<img src="icons/angular.svg" alt="Angular" height="32" />](## "Angular") &nbsp;
